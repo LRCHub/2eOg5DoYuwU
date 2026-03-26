@@ -1,4 +1,4 @@
-# Eve – ファイトソング
+# Eve – ファイトソング (Fight Song) - Eve Music Video
 
 > **歌詞登録ステータス：同期歌詞あり**
 
