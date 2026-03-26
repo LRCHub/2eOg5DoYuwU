@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ファイトソング",
+  "base_track": "ファイトソング (Fight Song) - Eve Music Video",
   "base_artist": "Eve",
-  "createdAt": "2026-03-23T23:47:39.356907Z",
+  "createdAt": "2026-03-26T06:47:31.949500Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,15 +35,6 @@
       "artist": "Eve",
       "has_synced": false,
       "path": "select/pl_01_ファイトソング_Eve.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "ファイトソング",
-      "artist": "Eve",
-      "has_synced": true,
-      "path": "select/localdb_01_ファイトソング_Eve.lrc",
-      "repo_name": "2eOg5DoYuwU"
     }
   ]
 }
